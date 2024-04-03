@@ -1,0 +1,6 @@
+# Ignore all files within !new_datasets and !Spring_Invitational_2024_data
+
+data/!Spring_Invitational_2024_data/
+
+data/!new_datasets/
+
