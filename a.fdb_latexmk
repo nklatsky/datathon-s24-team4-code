@@ -1,0 +1,23 @@
+# Fdb version 4
+["pdflatex"] 1712546727 "/Users/kelvin/Documents/GitHub/datathon-s24-team4/a.tex" "a.pdf" "a" 1712546727 2
+  "/Users/kelvin/Documents/GitHub/datathon-s24-team4/a.tex" 1712546726 21153 5c9b0fea47bc4878c249d9baf6e532f7 ""
+  "/usr/local/texlive/2023/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
+  "/usr/local/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmr12.tfm" 1136768653 1288 655e228510b4c2a1abe905c368440826 ""
+  "/usr/local/texlive/2023/texmf-dist/tex/generic/babel-english/english.ldf" 1496785618 7008 9ff5fdcc865b01beca2b0fe4a46231d4 ""
+  "/usr/local/texlive/2023/texmf-dist/tex/generic/babel/babel.sty" 1676321701 151363 1f5971af3ef874d432e8fb43e0edb71d ""
+  "/usr/local/texlive/2023/texmf-dist/tex/generic/babel/locale/en/babel-en.ini" 1661803479 3966 caeee5a9e5771d4446aa1ca9015ba1b2 ""
+  "/usr/local/texlive/2023/texmf-dist/tex/generic/babel/locale/en/babel-english.tex" 1498512262 336 ed676b5e7dfd862bc78d634f6a973f37 ""
+  "/usr/local/texlive/2023/texmf-dist/tex/generic/babel/txtbabel.def" 1674507072 6927 64b53e78feab932ab94f892bb5a5facf ""
+  "/usr/local/texlive/2023/texmf-dist/tex/latex/base/report.cls" 1667332637 23203 3d69f4661dd74a5edb1507ff18e40fb9 ""
+  "/usr/local/texlive/2023/texmf-dist/tex/latex/base/size12.clo" 1667332637 8449 c314623021fbddd0180c05345324933c ""
+  "/usr/local/texlive/2023/texmf-dist/web2c/texmf.cnf" 1677365944 40745 87bb86a62d462f93a1efc6b0c65c872e ""
+  "/usr/local/texlive/2023/texmf-var/web2c/pdftex/pdflatex.fmt" 1681862228 7883452 0fe6dfe960c5ad2a27915f32c83b4a83 ""
+  "/usr/local/texlive/2023/texmf.cnf" 1678822455 577 1b2b1af17af2508fb20dd85783af4050 ""
+  "a.aux" 1712546727 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
+  "a.tex" 1712546726 21153 5c9b0fea47bc4878c249d9baf6e532f7 ""
+  "packages/sleek.sty" 0 -1 0 ""
+  (generated)
+  "a.aux"
+  "a.log"
+  "a.pdf"
+  (rewritten before read)
